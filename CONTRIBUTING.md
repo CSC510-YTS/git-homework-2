@@ -1,0 +1,1 @@
+Thank you for your interest in contributing, but this is a group assignment for CSC510 Team 22, contributions are not required.
